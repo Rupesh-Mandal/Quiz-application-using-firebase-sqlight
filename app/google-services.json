@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239996821549",
+    "firebase_url": "https://quizzone-48bed.firebaseio.com",
+    "project_id": "quizzone-48bed",
+    "storage_bucket": "quizzone-48bed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239996821549:android:04bcdcafcbf94cd88858a4",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239996821549-mtjk4iooc65ie9i0lf47igqc6beghmnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "a0043bca671337e9ef39535c3003ecaf0054b292"
+          }
+        },
+        {
+          "client_id": "239996821549-4e0s1b6nenq5vq4prk1em233u54ks0n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7VlEgFVELFHwyZ-KojWZ9ebbzyOqTDsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239996821549-4e0s1b6nenq5vq4prk1em233u54ks0n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
